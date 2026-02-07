@@ -1,8 +1,11 @@
 # 🏥 Clinical-to-Patient Discharge Instruction Generator  
 *Fine-Tuning FLAN-T5 with LoRA for Patient-Friendly Medical Communication*
-**👨‍💻 Author:** Priti Pradeep Ghosh 
-**📘 Course:** Advanced NLP / LLM Fine-Tuning  
-**📅 Date:** February 2026 
+
+👨‍💻 **Author:** Priti Pradeep Ghosh  
+
+📘 **Course:** Advanced NLP / LLM Fine-Tuning  
+
+📅 **Date:** February 2026
 
 ---
 
